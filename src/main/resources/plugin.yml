@@ -1,0 +1,5 @@
+name: SurvivalCore
+version: '${version}'
+main: com.minecollar.survivalcore.SurvivalCore
+author: MineCollar
+api-version: '1.20'
